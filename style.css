@@ -555,16 +555,16 @@ section {
 
 .card-red .see-more {
     color: #d71920;
-    background: #141414;
+    background: #070707;
 }
 
 .card-yellow .see-more {
     color: #ffd400;
-    background: #141414;
+    background: #d71920;
 }
 
 .card-black .see-more {
-    color: #111111;
+    color: #070707;
     background: #ffd400;
 }
 
